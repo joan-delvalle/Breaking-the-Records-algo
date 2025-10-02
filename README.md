@@ -1,1 +1,1 @@
-# Breaking-the-Records-algo
+# Breaking-the-Records- The program tracks how many times a player breaks their season records for highest and lowest scores. It goes through each score, updating the record counts, and finally returns the number of times the maximum and minimum records were broken
